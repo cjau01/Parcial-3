@@ -71,6 +71,7 @@ N| E| S|
 RELLENAR UNA MATRIZ CUADRADA (NxN) CON UN NUMERO LEIDO DEL TECLADO
 
 #### 1.2 DFD
+[![DIAGRAMA-3.jpg](https://i.postimg.cc/LXLTLL2L/DIAGRAMA-3.jpg)](https://postimg.cc/xJjMSkk1)
 
 #### 1.3 Prueba de escritorio
 |i|j|Matriz|num|i=M?|
@@ -101,6 +102,7 @@ RELLENAR UNA MATRIZ NxN CON NUMEROS CONSECUTIVOS
 |4|5|6|
 |7|8|9|
 #### 1.2 DFD
+[![DIAGRAMA-4.jpg](https://i.postimg.cc/d0MZdX1N/DIAGRAMA-4.jpg)](https://postimg.cc/0zfN1V77)
 
 #### 1.3 Prueba de escritorio
 |i|j|Matriz|C|i=M?|
@@ -131,6 +133,7 @@ RELLENE UNA MATRIZ DE NxN PER QUE REPITA TODO EL RENGLON EL MISMO NUMERO
 |3|3|3|
 
 #### 1.2 DFD
+[![DIAGRAMA-5.jpg](https://i.postimg.cc/nLkVzwQD/DIAGRAMA-5.jpg)](https://postimg.cc/R3WxpddS)
 
 #### 1.3 Prueba de escritorio
 |i|j|Matriz|C|i=M?|
@@ -162,6 +165,7 @@ GENERE UNA MARIZ QUE QUEDE
 |0|0|0|4|
 
 #### 1.2 DFD
+[![DIAGRAMA-6.jpg](https://i.postimg.cc/vBTym8sJ/DIAGRAMA-6.jpg)](https://postimg.cc/DW9HjTm6)
 
 #### 1.3 Prueba de escritorio
 Primero rellenamos 
@@ -226,6 +230,7 @@ CONVERTIR
  |64|
  |81|
 #### 1.2 DFD
+[![diagrama7.jpg](https://i.postimg.cc/prD5sJ6Y/diagrama7.jpg)](https://postimg.cc/q6v7Ry0z)
 
 #### 1.3 Prueba de escritorio
 |corridas|Matriz|Vector|j+1|
@@ -270,6 +275,7 @@ Y 32 ALUMNOS, MENCIONE LOS ALUMNOS EN RIESGO (CON ALMENOS 1 MATERIA REPROBADA)
             |-|-|-|-|-|-|-|
             | | | | | | | |
 #### 1.2 DFD
+[![DIAGRAMA-10.jpg](https://i.postimg.cc/DynS2sNH/DIAGRAMA-10.jpg)](https://postimg.cc/w34q2tgQ)
 
 #### 1.3 Prueba de escritorio
 |corridas|i|j|M|j+1|
@@ -305,6 +311,7 @@ PREGUNTE LAS DIMENSIONES DE UNA MATRIZ EL RANGO ES [5,5], VALIDA QUE SEA CUADRAD
   DETERMINE CUAL ES MAYOR, PREGUNTE LOS VALORES PARA LLENAR LA MATRIZ
   
 #### 1.2 DFD
+[![DIAGRAMA-9.jpg](https://i.postimg.cc/zXsPbzns/DIAGRAMA-9.jpg)](https://postimg.cc/crccPNkh)
 
 #### 1.3 Prueba de escritorio
   |corridas|j|M|j+1|
@@ -339,6 +346,7 @@ ALMACENAR EN UN ARRAY LA SUMATORIA DE LOS NUMEROS DEL 1 HASTA N EN CADA POSICION
 |6|
 
 #### 1.2 DFD
+[![DIAGRAMA-8.jpg](https://i.postimg.cc/vmQhfcDN/DIAGRAMA-8.jpg)](https://postimg.cc/xX4LSjvv)
 
 #### 1.3 Prueba de escritorio
 |i|vector|i=V?|
@@ -365,6 +373,7 @@ Ejemplo
 DADA UNA MATRIZ DE NxM ALMACENAR EN UN VECTOR LAS MAYORES
 
 #### 1.2 DFD
+[![DIAGRAMA-11.jpg](https://i.postimg.cc/SxQVznnt/DIAGRAMA-11.jpg)](https://postimg.cc/vcj5JHLW)
 
 #### 1.3 Prueba de escritorio
 |i|j|M|Suma|
